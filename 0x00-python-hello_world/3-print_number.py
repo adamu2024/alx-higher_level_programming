@@ -1,4 +1,3 @@
 #!/usr/bin/python3
->>> number = 98
->>> location = "Battery street"
->>> f"I live at, {number} {"\location}"
+number = 98
+print(f"{number:d} Battery street"}
